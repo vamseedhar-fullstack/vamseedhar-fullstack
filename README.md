@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm vamseedhar</h1>
+<img align="center" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQGbT1oCArknXw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713373736045?e=1728518400&v=beta&t=shwCTXT9tVP1EE1ILLGmxA1VRP6EtEeHGaD6hrPH-MU"/>
+
 <h3 align="center">Full-Stack Web Developer | Technical Head | React.js & Node.js Enthusiast | Cross-Platform Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ"/>
 
