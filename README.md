@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **vvvamseedhar@gmail.com**
 
-- ⚡ Fun fact **I can debug code faster than I can make coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
